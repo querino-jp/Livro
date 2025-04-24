@@ -2,31 +2,33 @@
 
 ## 🧑‍💻 Autores  
 - João Pedro Oliveira Querino (202421250012) - joao.querino@academico.ifpb.edu.br  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Guilherme Melo de Ataíde (202421250021) - guilherme.ataide@academico.ifpb.edu.br 
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+Nosso projeto irá investigar o hábito da leitura de livros no Brasil, fazendo uso dos dados da Câmara Brasileira do Livro (CBL). Escolhemos o tema motivados pelo desejo de entender quais os impactos tecnológicos, econômicos e sociais na escolha dos livros e no modo como o importante hábito da leitura é mantido pelos brasileiros. 
+
+A leitura é um hábito essencial para o desenvolvimento de habilidades cognitivas que transparecem a qualidade da educação de uma nação. A partir da pesquisa estatística, podemos refletir sobre a eficácia de políticas públicas voltadas para a independência intelectual dos cidadãos.
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
-
+  CBL
 - **Fonte:**  
-  (Link ou citação da base de dados)
+  https://cbl.org.br/o-que-fazemos/#div_block-123-101
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+ A Câmara Brasileira do Livro apresenta estudos anuais do mercado editorial em parceria com o Sindicato Nacional dos  Editores de Livros (SNEL). As pesquisas são realizadas pela Nielsen Brasil e trazem um panorama do mercado do livro no país. São estas: Produção e Vendas do Setor Editorial Brasileiro e sua Série Histórica, e o Conteúdo Digital do Setor Editorial Brasileiro. Há, ainda, a pesquisa Retratos da Leitura no Brasil, coordenada pelo Instituto Pró-Livro.  
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
+ A base de dados nos possibilita analisar tanto o mercado quanto o leitor, além de permitir observar o comportamento dos leitores brasileiros de maneira ampla.
 
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+A preencher na próxima etapa
+
+Existe alguma correlação entre a escolaridade, a renda e a leitura de livros?
+Existe correlação entre desenvolvimento tecnológico e diminuição na venda de livros impressos? 
+Os brasileiros gostam de ler em seu tempo livre?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
@@ -49,4 +51,5 @@ Síntese dos aprendizados e implicações das análises realizadas.
 Quais foram as limitações do estudo e o que poderia ser feito com mais tempo ou dados adicionais.
 
 ---
+
 
