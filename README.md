@@ -1,7 +1,7 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
+- João Pedro Oliveira Querino (202421250012) - joao.querino@academico.ifpb.edu.br  
 - Nome 2 (matrícula) - email  
 - Nome 3 (matrícula) - email  
 
