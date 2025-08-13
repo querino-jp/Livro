@@ -24,11 +24,11 @@ A leitura é um hábito essencial para o desenvolvimento de habilidades cognitiv
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-A preencher na próxima etapa
 
-Existe alguma correlação entre a escolaridade, a renda e a leitura de livros?
-Existe correlação entre desenvolvimento tecnológico e diminuição na venda de livros impressos? 
-Os brasileiros gostam de ler em seu tempo livre?
+Como a taxa de leitura varia por escolaridade?
+Qual a relação entre classe social e taxa de leitura?
+Quais são os principais motivos declarados para ler?
+Quais são as principais atividades de tempo livre segundo o nível de escolaridade?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
