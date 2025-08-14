@@ -39,12 +39,11 @@ A biblioteca pandas da linguagem python.
 
 ## 📈 Resultados  
 
-Tabela ordenada por nível de escolaridade:
-     Escolaridade |  percentual
-   Fundamental I     40.0
-  Fundamental II     49.0
-    Ensino Médio     48.0
-        Superior     63.0
+Tabela ordenada por nível de escolaridade;
+   Fundamental I:     40.0%;
+  Fundamental II:     49.0%;
+    Ensino Médio:     48.0%;
+        Superior:     63.0%;
 
 Tendência: o percentual de leitura aumenta com o nível de escolaridade.
 Média dos percentuais: 50.00%
