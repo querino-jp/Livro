@@ -39,7 +39,7 @@ A biblioteca pandas da linguagem python.
 
 ## 📈 Resultados  
 
-Tabela ordenada por nível de escolaridade;
+Tabela ordenada por nível de escolaridade:
    Fundamental I:     40.0%;
   Fundamental II:     49.0%;
     Ensino Médio:     48.0%;
