@@ -89,7 +89,9 @@ Representatividade da amostra: A fonte principal (CBL e Instituto Pró-Livro) é
 
 Dados sobre leitura digital: Embora o tema mencione impactos tecnológicos, não há análise específica sobre leitura em e-books, audiobooks ou plataformas digitais.
 
-....
+
+
+
 O que poderia ser feito com mais tempo ou dados adicionais:
 Análise multivariada: Aplicar modelos estatísticos para entender como escolaridade, renda, idade e região interagem na formação do hábito de leitura.
 
