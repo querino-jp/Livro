@@ -79,27 +79,27 @@ A leitura é impulsionada majoritariamente por razões pessoais e culturais, com
 
 ## ⚠️ Limitações e Trabalhos Futuros  
 Limitações do Estudo:
-Escopo limitado dos dados Os dados utilizados parecem se concentrar em percentuais agregados por escolaridade, classe social e motivações, sem detalhamento regional, faixa etária ou gênero.
+Escopo limitado dos dados: Os dados utilizados parecem se concentrar em percentuais agregados por escolaridade, classe social e motivações, sem detalhamento regional, faixa etária ou gênero.
 
-Ausência de análise temporal Não há indicação de séries históricas que permitam observar mudanças ao longo dos anos.
+Ausência de análise temporal: Não há indicação de séries históricas que permitam observar mudanças ao longo dos anos.
 
-Falta de testes estatísticos inferenciais A análise é descritiva, sem aplicação de testes como correlação, regressão ou ANOVA para validar relações entre variáveis.
+Falta de testes estatísticos: inferenciais A análise é descritiva, sem aplicação de testes como correlação, regressão ou ANOVA para validar relações entre variáveis.
 
-Representatividade da amostra A fonte principal (CBL e Instituto Pró-Livro) é confiável, mas não foi discutido se os dados representam todas as regiões e grupos sociais do Brasil.
+Representatividade da amostra: A fonte principal (CBL e Instituto Pró-Livro) é confiável, mas não foi discutido se os dados representam todas as regiões e grupos sociais do Brasil.
 
-Dados sobre leitura digital Embora o tema mencione impactos tecnológicos, não há análise específica sobre leitura em e-books, audiobooks ou plataformas digitais.
+Dados sobre leitura digital: Embora o tema mencione impactos tecnológicos, não há análise específica sobre leitura em e-books, audiobooks ou plataformas digitais.
 
-
+---
 O que poderia ser feito com mais tempo ou dados adicionais:
-Análise multivariada Aplicar modelos estatísticos para entender como escolaridade, renda, idade e região interagem na formação do hábito de leitura.
+Análise multivariada: Aplicar modelos estatísticos para entender como escolaridade, renda, idade e região interagem na formação do hábito de leitura.
 
-Segmentação demográfica Investigar como o hábito de leitura varia entre jovens, adultos e idosos, ou entre homens e mulheres.
+Segmentação demográfica: Investigar como o hábito de leitura varia entre jovens, adultos e idosos, ou entre homens e mulheres.
 
-Estudo longitudinal Incorporar dados de diferentes anos para observar tendências e impactos de políticas públicas ou mudanças tecnológicas.
+Estudo longitudinal: Incorporar dados de diferentes anos para observar tendências e impactos de políticas públicas ou mudanças tecnológicas.
 
-Integração com dados educacionais e econômicos Cruzar com dados do IBGE, INEP ou PNAD para enriquecer a análise com indicadores de educação e renda.
+Integração com dados educacionais e econômicos: Cruzar com dados do IBGE, INEP ou PNAD para enriquecer a análise com indicadores de educação e renda.
 
-Visualizações interativas Criar dashboards que permitam explorar os dados por filtros como região, faixa etária ou tipo de leitura.
+Visualizações interativas: Criar dashboards que permitam explorar os dados por filtros como região, faixa etária ou tipo de leitura.
 
 ---
 
