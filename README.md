@@ -31,20 +31,52 @@ Quais são os principais motivos declarados para ler?
 Quais são as principais atividades de tempo livre segundo o nível de escolaridade?
 
 ## 🔍 Metodologia  
-*A preencher na próxima etapa.*  
-Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
+Organização e ordenação de dados categóricos, cálculo de estatísticas descritivas, comparações entre grupos, análise de frequência acumulada, interpretação de tendências.
+
 
 ## 🛠️ Ferramentas Utilizadas  
-*A preencher na próxima etapa.*  
-Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
+A biblioteca pandas da linguagem python.
 
 ## 📈 Resultados  
-*A preencher após as análises.*  
-Resumo visual e interpretativo dos principais achados.
+
+Tabela ordenada por nível de escolaridade:
+     Escolaridade |  percentual
+   Fundamental I     40.0
+  Fundamental II     49.0
+    Ensino Médio     48.0
+        Superior     63.0
+
+Tendência: o percentual de leitura aumenta com o nível de escolaridade.
+Média dos percentuais: 50.00%
+Desvio padrão: ≈ 9.56%
+
+Classe Social | Percentual (%)
+A	              62
+B	              60
+C	              46
+D/E	            35
+
+Média: 50.75%
+Mínimo: 35%
+Máximo: 62%
+Desvio padrão: ≈ 12.25%
+
+Motivação para leitura:
+Ordem |	          Motivação       	  |  Percentual |	Acumulada
+1	                Gosto	                 24%	        24%
+2	               Distração	             15%	        39%
+3	          Atualização cultural ou 
+              Conhecimento geral	       15%	        54%
+4	           Crescimento pessoal	       13%	        67%
+5	          Aprender algo novo ou
+        desenvolver alguma habilidade	   10%          77%
+
+Frequência relativa acumulada dos cinco primeiros: 77% 
+
 
 ## 📌 Conclusões  
-*A preencher no final do projeto.*  
-Síntese dos aprendizados e implicações das análises realizadas.
+A leitura é impulsionada majoritariamente por razões pessoais e culturais, como prazer, distração e crescimento, enquanto os motivos profissionais e escolares aparecem em menor escala, evidenciando uma preferência por motivações internas e voluntárias. Observa-se que a taxa de leitura tende a crescer com o aumento do nível de escolaridade, embora haja variações, e que a formação acadêmica avançada influencia fortemente os hábitos de leitura. Além disso, há uma queda progressiva no percentual de leitores à medida que a classe social diminui. Pessoas com nível superior também apresentam uma adesão muito maior a tecnologias digitais e redes sociais no tempo livre em comparação àquelas com apenas o Fundamental I.
+
 
 ## ⚠️ Limitações e Trabalhos Futuros  
 *A preencher no final do projeto.*  
